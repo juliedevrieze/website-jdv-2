@@ -1,0 +1,256 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
+#menu-0 {
+.mbr-brand__name {
+	font-size: 16px;
+}
+&.mbr-navbar--stuck .mbr-navbar__section {
+	background: #000000;
+}
+.mbr-navbar__section {
+}
+.navbar-toggler {
+	color: #ffffff;
+}
+.close-icon::before, .close-icon::after {
+	background-color: #ffffff;
+}
+.link, .dropdown-item {
+	color: #ffffff;
+}
+.link {
+	font-size: 0.75rem;
+}
+.dropdown-item, .nav-dropdown-sm .link {
+	font-size: 0.812rem;
+}
+.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {
+	color: @primaryColor;
+}
+.link[aria-expanded="true"], .dropdown-menu {
+	background: #0e0e0e;
+}
+.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {
+	background: #202020!important;
+}
+.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded="true"], .nav-dropdown-sm .dropdown-menu {
+	background: #282828;
+}
+.bg-color.transparent .link {
+	color: #ffffff;
+	transition: none;
+}
+.bg-color.transparent.opened .link {
+	transition: color .2s ease-in-out;
+}
+.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {
+	color: @primaryColor;
+}
+.link[aria-expanded="true"], .dropdown-item[aria-expanded="true"] {
+	color: #c0a375!important;
+}
+.mbr-navbar__hamburger {
+	color: #ff67c2;
+}
+}
+
+#header2-5 {
+H1 {
+	font-size: 80px;
+	color: #493025;
+}
+.btn {
+	font-size: 8px;
+}
+SPAN {
+	font-family: 'Slabo 27px', serif;
+	color: #e25041;
+}
+}
+
+
+#header2-4 H1 {
+  color: #ff67c2;
+  font-family: 'Roboto', sans-serif;
+  font-size: 84px;
+}
+#header2-4 .btn {
+  font-size: 8px;
+}
+#header2-4 SPAN {
+  font-family: 'Roboto', sans-serif;
+  font-size: 100px;
+  color: #000000;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+
+
+#header2-20 P {
+  font-size: 13px;
+  text-align: left;
+  color: #ff67c2;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#header2-20 H1 {
+  font-size: 84px;
+  text-align: left;
+  color: #ff67c2;
+}
+#header2-20 .btn {
+  font-size: 12px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#header2-20 SPAN {
+  color: #ff67c2;
+  font-size: 84px;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#header3-g H3 {
+  color: #ff67c2;
+  font-size: 84px;
+  text-align: center;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#buttons1-36 .btn {
+  font-size: 13px;
+}
+#header3-j H3 {
+  color: #ff67c2;
+  font-size: 84px;
+  text-align: center;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#header3-i H3 {
+  text-align: center;
+  color: #ff67c2;
+  font-size: 84px;
+}
+#buttons1-37 .btn {
+  font-size: 13px;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#header3-h H3 {
+  color: #ff67c2;
+  text-align: center;
+  font-size: 84px;
+}
+#menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#header1-28 .btn {
+  font-size: 12px;
+}
+#header1-28 H1 {
+  font-size: 20px;
+}
+#header1-28 P {
+  font-size: 13px;
+  color: #000000;
+}
+#header1-28 SPAN {
+  color: #000000;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#header3-36 H3 {
+  text-align: center;
+  font-size: 36px;
+  color: #ff67c2;
+}
+#header3-36 SPAN {
+  font-size: 13px;
+  color: #ff67c2;
+}
+#buttons1-37 .btn {
+  font-size: 12px;
+}
+#header3-f H3 {
+  text-align: center;
+  color: #ff67c2;
+  font-size: 84px;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#buttons1-34 .btn {
+  font-size: 13px;
+}
+#header3-e H3 {
+  text-align: center;
+  color: #ff67c2;
+  font-size: 84px;
+}
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ff67c2;
+}
+#buttons1-35 .btn {
+  font-size: 13px;
+}
